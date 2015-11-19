@@ -6,6 +6,8 @@ function P = computeBFSpath(AdjTable,start,goal)
 % % goal = input('Enter the goal node V as an integer ranging [1,n] where n=size of the graph   :   ');%Input goal node
 
 %%Call the function computeBFSTree to give a tree and parent vector%%
+
+%% Author: AkhilReddySai%%
 [tree,parentvector]= computeBFStree(AdjTable,start);
 
 
