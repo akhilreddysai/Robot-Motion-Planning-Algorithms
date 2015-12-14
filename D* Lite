@@ -1,4 +1,4 @@
-/* D* Lite (final version) - Maxim Likhachev (CMU) and Sven Koenig (USC) */
+/* D* Lite */
 /* Note: this version of D* Lite is optimized for grids                  */
 /* It assumes, for example, that no cell can be a successor of itself.   */
 
