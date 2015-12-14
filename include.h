@@ -1,4 +1,3 @@
-/* D* Lite (final version) - Maxim Likhachev (CMU) and Sven Koenig (USC) */
 
 #ifndef INCLUDEH
 #define INCLUDEH
