@@ -1,4 +1,4 @@
-/* D* Lite (final version) - Maxim Likhachev (CMU) and Sven Koenig (USC) */
+
 
 #include "include.h"
 #include "heap.h"
